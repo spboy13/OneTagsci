@@ -15,7 +15,7 @@ Software:
   Database  : SQlite
   DB viewer : DB Browser for sqlite
 
-Watch 'demoFinal.mp4' to see the full features.
+Watch https://bit.ly/3rVyzZA for device + software demo.
 
 Remarks:
   1. Upload "arduino_readRFID_sendToRPI.ino" file to arduino
