@@ -3,17 +3,17 @@
 
 The project is an entry level ID and login system for students and faculty in an institution. 
 
-Hardware:
-  raspberry pi3 - software platform
-  arduino UNO   - controller for scanner
-  RFID-RC522    - scanner
+Hardware: <br />
+  raspberry pi3 : software platform <br />
+  arduino UNO   : controller for scanner <br />
+  RFID-RC522    : scanner <br />
 
-Software:
-  language  - python 3.7.0
-              c++ 
-  GUI       - Tkinter
-  Database  - SQlite
-  DB viewer - DB Browser for sqlite
+Software: <br />
+  language  : python 3.7.0 <br />
+              c++  <br />
+  GUI       : Tkinter <br />
+  Database  : SQlite <br />
+  DB viewer : DB Browser for sqlite <br />
 
 Watch https://bit.ly/3rVyzZA for device + software demo.
 
